@@ -1,0 +1,9 @@
+.img_parent img{
+    max-width: 38px;
+    border-radius: 50%;
+    border: 1px solid tomato;
+}
+.action{
+    background: none;
+    border: none;
+}
